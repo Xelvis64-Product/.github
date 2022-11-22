@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-🙋‍♀️ A short introduction - We are Xelvis production. We are making interesting things including software, game, etc.
+🙋‍♀️ A short introduction - We are Xelvis64 production. We are making interesting things including software, game, etc.
 
 🌈 Contribution guidelines - You pull request to any repo you can join.
 
